@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class stringC {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter first string (a):");
+        String a = sc.nextLine();
+
+        System.out.print("Enter second string (b):");
+        String b = sc.nextLine();
+
+        String c = "";
+
+        for (int i = 0; i < a.length(); i++) {
+            char ch = a.charAt(i);
+            boolean found = false;
+            for (int j = 0; j < b.length(); j++) {
+                if (ch == b.charAt(j)) {
+                    found = true;
+                    break;
+                }
+            }
+            if (!found) {
+                c = c + ch;
+            }
+        }
+        System.out.println("Resulting string (c): " + c);
+    }
+}

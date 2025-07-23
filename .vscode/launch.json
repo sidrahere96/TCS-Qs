@@ -1,0 +1,117 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "numSumString",
+            "request": "launch",
+            "mainClass": "numSumString",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "magicFunction",
+            "request": "launch",
+            "mainClass": "magicFunction",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "mintNo",
+            "request": "launch",
+            "mainClass": "mintNo",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "arrayEvenOddSum",
+            "request": "launch",
+            "mainClass": "arrayEvenOddSum",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "mTon",
+            "request": "launch",
+            "mainClass": "mTon",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "stringC2",
+            "request": "launch",
+            "mainClass": "stringC2",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "stringC",
+            "request": "launch",
+            "mainClass": "stringC",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "nthlargest",
+            "request": "launch",
+            "mainClass": "nthlargest",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "game",
+            "request": "launch",
+            "mainClass": "game",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "sumOfSubstring",
+            "request": "launch",
+            "mainClass": "sumOfSubstring",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "numberSequence",
+            "request": "launch",
+            "mainClass": "numberSequence",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "multipleof10InSequence",
+            "request": "launch",
+            "mainClass": "multipleof10InSequence",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "multipleOfTenAtEnd",
+            "request": "launch",
+            "mainClass": "multipleOfTenAtEnd",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "rotatingArray",
+            "request": "launch",
+            "mainClass": "rotatingArray",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "brainGame",
+            "request": "launch",
+            "mainClass": "brainGame",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {
+            "type": "java",
+            "name": "separtingZero",
+            "request": "launch",
+            "mainClass": "separtingZero",
+            "projectName": "TCS Qs_28922a64"
+        },
+        {}
+    ]
+}
