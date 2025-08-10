@@ -2,6 +2,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "longestwork2",
+            "request": "launch",
+            "mainClass": "longestwork2",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "longestWord",
+            "request": "launch",
+            "mainClass": "longestWord",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "zigZag",
+            "request": "launch",
+            "mainClass": "zigZag",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "zigZagConversion",
+            "request": "launch",
+            "mainClass": "zigZagConversion",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "minNoFreq",
+            "request": "launch",
+            "mainClass": "minNoFreq",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "carRent",
+            "request": "launch",
+            "mainClass": "carRent",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "multipleof10InReverse",
+            "request": "launch",
+            "mainClass": "multipleof10InReverse",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "multipleof10InSequence",
+            "request": "launch",
+            "mainClass": "multipleof10InSequence",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "numSum",
+            "request": "launch",
+            "mainClass": "numSum",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "prisonerCandy",
+            "request": "launch",
+            "mainClass": "prisonerCandy",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "fuel",
+            "request": "launch",
+            "mainClass": "fuel",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
             "name": "numSumString",
             "request": "launch",
             "mainClass": "numSumString",
