@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "commonprefix",
+            "request": "launch",
+            "mainClass": "commonprefix",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "patternMatching",
+            "request": "launch",
+            "mainClass": "patternMatching",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "RegexMatching",
+            "request": "launch",
+            "mainClass": "RegexMatching",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "swappingNo",
+            "request": "launch",
+            "mainClass": "swappingNo",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
             "name": "longestwork2",
             "request": "launch",
             "mainClass": "longestwork2",

@@ -11,18 +11,18 @@ class ListNode {
 
 public class swappingNo {
 
-    public static ListNode swapPairs(ListNode head) {
+    public static ListNode swap(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
         ListNode first = head;
         ListNode second = head.next;
-        first.next = swapPairs(second.next);
+        first.next = swap(second.next);
         second.next = first;
         return second;
     }
 
-    public static void printList(ListNode head) {
+    public static void print(ListNode head) {
         while (head != null) {
             System.out.print(head.val + " ");
             head = head.next;
@@ -30,7 +30,7 @@ public class swappingNo {
         System.out.println();
     }
 
-    public static ListNode createList(int[] arr) {
+    public static ListNode create(int[] arr) {
         if (arr.length == 0) return null;
         ListNode head = new ListNode(arr[0]);
         ListNode current = head;
@@ -51,11 +51,11 @@ public class swappingNo {
             arr[i] = sc.nextInt();
         }
         sc.close();
-        ListNode head = createList(arr);
+        ListNode head = create(arr);
         System.out.println("Original list:");
-        printList(head);
-        head = swapPairs(head);
+        print(head);
+        head = swap(head);
         System.out.println("After swapping pairs:");
-        printList(head);
+        print(head);
     }
 }
