@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumClosest",
+            "request": "launch",
+            "mainClass": "sumClosest",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumClosest",
+            "request": "launch",
+            "mainClass": "ThreeSumClosest",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "threeSum",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
+            "name": "maxLitre",
+            "request": "launch",
+            "mainClass": "maxLitre",
+            "projectName": "TCS Qs_cd6f99d"
+        },
+        {
+            "type": "java",
             "name": "commonprefix",
             "request": "launch",
             "mainClass": "commonprefix",
